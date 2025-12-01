@@ -212,37 +212,6 @@ The algorithm demonstrates linear scalability with respect to problem size:
 - **Distributed Computing**: Parallel optimization for large instances
 - **Interactive Interface**: Real-time schedule modification capabilities
 
-## File Structure
-
-```
-school-timetabling/
-├── src/
-│   ├── scheduler.py           # Main optimization engine
-│   ├── constraints.py         # Constraint definitions
-│   ├── local_search.py        # Neighborhood operators
-│   └── utils.py              # Helper functions
-├── data/
-│   ├── sample_assignments.txt # Example teacher data
-│   └── preferences.json      # Sample preferences
-├── tests/
-│   └── test_scheduler.py     # Unit tests
-├── results/
-│   └── performance_analysis.pdf # Experimental results
-└── README.md                 # Documentation
-```
-
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@software{school_timetabling_2024,
-  title={School Timetabling Optimization System},
-  author={[Your Name]},
-  year={2024},
-  url={https://github.com/[your-username]/school-timetabling}
-}
-```
 
 ## License
 
@@ -250,10 +219,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Author**: [Your Name]  
-**Email**: [your.email@domain.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Research Interest**: Operations Research, Combinatorial Optimization, Educational Technology
+**Author**: [Alessandro Fabbri]  
+**Email**: [alessandr04.fabbri@edu.unife.it]  
+
 
 ---
 
